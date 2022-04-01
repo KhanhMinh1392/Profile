@@ -385,7 +385,9 @@ header .navbar ul li a:hover{
     z-index: 100;
     display: none;
 }
-
+.introduce{
+    text-align: justify;
+}
 
 
 
